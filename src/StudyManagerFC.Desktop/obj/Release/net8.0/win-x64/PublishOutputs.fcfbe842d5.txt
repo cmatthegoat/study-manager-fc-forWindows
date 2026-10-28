@@ -1,0 +1,2 @@
+/Users/chrismathews/Desktop/School/Study FC/dist/StudyManagerFC-Windows/StudyManagerFC.Core.pdb
+/Users/chrismathews/Desktop/School/Study FC/dist/StudyManagerFC-Windows/StudyManagerFC.exe

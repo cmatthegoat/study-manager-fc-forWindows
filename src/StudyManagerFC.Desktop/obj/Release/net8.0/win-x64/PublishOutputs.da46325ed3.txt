@@ -1,0 +1,2 @@
+/tmp/pubcheck/StudyManagerFC.Core.pdb
+/tmp/pubcheck/StudyManagerFC.exe

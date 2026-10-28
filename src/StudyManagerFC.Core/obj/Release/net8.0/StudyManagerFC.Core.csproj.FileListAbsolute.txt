@@ -1,0 +1,11 @@
+/Users/chrismathews/Desktop/School/Study FC/WindowsApp/src/StudyManagerFC.Core/bin/Release/net8.0/StudyManagerFC.Core.deps.json
+/Users/chrismathews/Desktop/School/Study FC/WindowsApp/src/StudyManagerFC.Core/bin/Release/net8.0/StudyManagerFC.Core.dll
+/Users/chrismathews/Desktop/School/Study FC/WindowsApp/src/StudyManagerFC.Core/bin/Release/net8.0/StudyManagerFC.Core.pdb
+/Users/chrismathews/Desktop/School/Study FC/WindowsApp/src/StudyManagerFC.Core/obj/Release/net8.0/StudyManagerFC.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrismathews/Desktop/School/Study FC/WindowsApp/src/StudyManagerFC.Core/obj/Release/net8.0/StudyManagerFC.Core.AssemblyInfoInputs.cache
+/Users/chrismathews/Desktop/School/Study FC/WindowsApp/src/StudyManagerFC.Core/obj/Release/net8.0/StudyManagerFC.Core.AssemblyInfo.cs
+/Users/chrismathews/Desktop/School/Study FC/WindowsApp/src/StudyManagerFC.Core/obj/Release/net8.0/StudyManagerFC.Core.csproj.CoreCompileInputs.cache
+/Users/chrismathews/Desktop/School/Study FC/WindowsApp/src/StudyManagerFC.Core/obj/Release/net8.0/StudyManagerFC.Core.dll
+/Users/chrismathews/Desktop/School/Study FC/WindowsApp/src/StudyManagerFC.Core/obj/Release/net8.0/refint/StudyManagerFC.Core.dll
+/Users/chrismathews/Desktop/School/Study FC/WindowsApp/src/StudyManagerFC.Core/obj/Release/net8.0/StudyManagerFC.Core.pdb
+/Users/chrismathews/Desktop/School/Study FC/WindowsApp/src/StudyManagerFC.Core/obj/Release/net8.0/ref/StudyManagerFC.Core.dll
